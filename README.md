@@ -730,10 +730,4 @@ Architecture: G³GT
 Repository: Locality Provisioning
 When reusing or adapting material from this repository, attribution should identify the repository and GRB as the source and preserve notice of material changes where applicable.
 
-A small publication note: T1's status judgment still fits this version well—
 
-```text
-PUBLIC-SHORELINE READY
-v0.1
-PROVISIONAL
-PRE-VALIDATION
